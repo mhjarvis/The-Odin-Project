@@ -1,0 +1,16 @@
+* {
+    background-color: pink;
+}
+
+.container {
+    display: flex;
+    background-color: black;
+}
+
+.container div {
+    background-color: white;
+    border: 4px solid black;
+    height: 100px;
+    margin: 40px;
+    flex: 1;
+}
